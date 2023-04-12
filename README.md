@@ -14,7 +14,7 @@ python&matplotlib_scientific-visualization-book [PDF](Books/scientific-visualiza
 ### matplotlib/sns
 [The Python Graph Gallery](https://www.python-graph-gallery.com/)
 
-[Snsborn Gallery]([Example gallery — seaborn 0.12.2 documentation (pydata.org)](https://seaborn.pydata.org/examples/index.html))
+[Snsborn Gallery](https://seaborn.pydata.org/examples/index.html)
 
 ## Writing
 
