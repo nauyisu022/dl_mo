@@ -11,7 +11,7 @@ https://pyecharts.org/
 
 python&matplotlib_scientific-visualization-book [PDF](Books/scientific-visualization-book.pdf). 
 
-### matplotlib/sns
+### matplotlib/SNS
 [The Python Graph Gallery](https://www.python-graph-gallery.com/)
 
 [Snsborn Gallery](https://seaborn.pydata.org/examples/index.html)
